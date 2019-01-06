@@ -1,11 +1,11 @@
 # Site
 title:              Soumya Saha
-bio:                'Minimal, one column jekyll theme.'
+bio:                'Hi there, I'm a 1st year Computer Science Masters student at University of Massachusetts Amherst.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/DSC_0814_cropped.jpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://soumyaumass.github.io
@@ -38,11 +38,11 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+#facebook:           username
+github-url:         soumyaumass
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          soumyaumass
+linkedin:           soumyaumass
 #xing:              username
 instagram:          capricious_rambler
 #lastfm:            username
@@ -50,7 +50,7 @@ instagram:          capricious_rambler
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel

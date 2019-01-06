@@ -1,6 +1,6 @@
 # Site
 title:              Soumya Saha
-bio:                'Hi there, I am a 1st year Computer Science Masters student at University of Massachusetts Amherst.'
+bio:                'Hi there, I am a 1st year Computer Science Masters student at <a href="https://www.umass.edu/"><b>University of Massachusetts Amherst.</b></a>'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              soumyasaha@cs.umass.edu
 #twitter:            username
 #facebook:           username
 github-url:         soumyaumass
